@@ -17,14 +17,16 @@ title: Studio Universus
 email: contato@studiouniversus.com.br
 description: Studio de sobrancelhas e esmalteria com técnicas exclusivas.
   Competência, receptividade e segurança com sua saúde é nossa obrigação.
-  Nós iremos além para lhe proporcionar uma ótima experiência a cada cuidado.
+  Nós iremos além para lhe proporcionar Uma Experiência a Cada Cuidado!
 about: Nós temos o que você precisa!
 about_description: Sua satisfação é o nosso maior objetivo.
   Cuidados com sobrancelhas e unhas a cada se tornam mais... (Criar um pequeno texto)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/studiouniversus" # the subpath of your site, e.g. /blog
 url: "http://studiouniversus.com.br" # the base hostname & protocol for your site
-facebook_username: jekyllrb
-instagram_username:  jekyll
+telephone: (61)3484-2670
+whatsapp: (61)99181-1118
+facebook: studiouniversus
+instagram: studiouniversus
 
 # Build settings
 markdown: kramdown

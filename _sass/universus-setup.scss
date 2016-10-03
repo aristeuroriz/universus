@@ -1,4 +1,31 @@
 $primary-dark: #715D54;
 $primary-light: #FEB2A5;
 $primary: #FD9185;
+$dark-gray: #3E464C;
 $logo-bg: #FEF3DD;
+.logo{
+	height: 18em;
+}
+
+// .social-float {
+// 	position:fixed;
+// 	top:7%;
+// 	right:2%;
+// 	z-index: 1 !important;
+// }
+.social-float > a {
+	color: $primary-light;
+}
+.navbar-brand > img{
+	margin-top: -23%;
+	height: 2.5em;
+}
+footer{
+	background-color: $dark-gray;
+}
+.info{
+	margin-top: 3%;
+}
+.footer{
+	padding-top: 5%;
+}
