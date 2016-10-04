@@ -21,7 +21,7 @@ description: Studio de sobrancelhas e esmalteria com técnicas exclusivas.
 about: Nós temos o que você precisa!
 about_description: Sua satisfação é o nosso maior objetivo.
   Cuidados com sobrancelhas e unhas a cada se tornam mais... (Criar um pequeno texto)
-baseurl: "/studiouniversus" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://studiouniversus.com.br" # the base hostname & protocol for your site
 telephone: (61)3484-2670
 whatsapp: (61)99181-1118
