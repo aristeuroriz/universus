@@ -15,8 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Studio Universus
 email: contato@studiouniversus.com.br
+meta_description: Studio de sobrancelhas e esmalteria com técnicas exclusivas.
+  Nós iremos além para lhe proporcionar Uma Experiência a Cada Cuidado!
 description: Studio de sobrancelhas e esmalteria com técnicas exclusivas.
-  Competência, receptividade e segurança com sua saúde é nossa obrigação.
+  Competência e segurança com sua saúde é nossa obrigação.
   Nós iremos além para lhe proporcionar Uma Experiência a Cada Cuidado!
 about: Nós temos o que você precisa!
 about_description: Sua satisfação é o nosso maior objetivo.
@@ -27,6 +29,8 @@ telephone: (61)3484-2670
 whatsapp: (61)99181-1118
 facebook: studiouniversus
 instagram: studiouniversus
+
+keywords: design de sobrancelhas, micropigmentação, esmalteria, unhas, pés, mãos, gama, df, valparaiso, luziania, go
 
 # Build settings
 markdown: kramdown
